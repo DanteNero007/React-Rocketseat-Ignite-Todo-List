@@ -1,0 +1,17 @@
+.listaNova{
+    margin: 2rem auto 0 auto ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 51rem;
+    height: 4rem;
+    border: 2rem solid var(--gray-400)
+}
+
+.deleteTrash{
+   padding: 0;
+   background-color: transparent;
+   border: none;
+
+
+}
